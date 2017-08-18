@@ -15,7 +15,7 @@ class deviceNameViewController: UIViewController {
     
     var userEnteredCode = ""
     var generatedDeviceName = ""
-    
+    var userRollNumber = "15BCS0074"
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -34,6 +34,7 @@ class deviceNameViewController: UIViewController {
     
     func generateDeviceName(){
         print(userEnteredCode)
+        
         generatedDeviceName = userEnteredCode
     }
     
