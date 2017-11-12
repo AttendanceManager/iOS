@@ -312,6 +312,7 @@
 				E7038F081F3CA35200DD86DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
